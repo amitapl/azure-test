@@ -1,0 +1,14 @@
+{
+  "name": "azure-test",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "locomotive": "git://github.com/aejay/locomotive.git#master",
+    "express": "3.x.x"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "start": "node server.js"
+}
